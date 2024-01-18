@@ -1,0 +1,10 @@
+#btn1 {
+    width: 80px;
+    border-radius: 5px;
+    border: none;
+}
+#btn1:hover {
+    width: 80px;
+    border-radius: 5px;
+    border: 1px solid #212832;
+}
