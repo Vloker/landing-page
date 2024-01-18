@@ -1,0 +1,19 @@
+#card{
+    height: 457px;
+    width: 314px;
+    border-radius: 10px;
+    box-shadow: black 1px 10px 10px 0px;
+}
+#imageDestination{
+    width: auto;
+    height: 457px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+#infoDestination{
+    width: 314px;
+    height: 100px;
+    background: #ffff;
+    border-radius: 10px;
+    top: 80%;
+}

@@ -3,6 +3,7 @@ import React from 'react'
 import Navbar from '../component/navbar/navbar'
 import Footers from '../component/footer/footers'
 import Subscribe from '../component/Subscribe'
+import CardDestination from '../component/cards/cardDestination'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
     <>
       <Navbar/>
         <Subscribe/>
+        <CardDestination/>
       <Footers/>
     </>
   )
