@@ -1,9 +1,10 @@
 import React from 'react'
 import Buttons from '../buttons/buttons'
 
-function navbar() {
+function Navbar() {
   return (
-        <nav className='container-sm mx-auto bg-transparent'>
+    <nav>
+        <div className='container-xl bg-transparent'>
                 <div className='flex justify-between'>
                     <img src="src/assets/img/Logo.png" alt="logos" />
                     <ul className='flex items-center gap-14 text-black'>
@@ -17,8 +18,9 @@ function navbar() {
                         <Buttons text='Sign up' />
                     </div>
                 </div>
-        </nav>
+        </div>
+    </nav>
   )
 }
 
-export default navbar
+export default Navbar

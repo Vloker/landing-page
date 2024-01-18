@@ -1,0 +1,13 @@
+#inputemail{
+    width: 330px;
+    border: 1px solid #212832;
+    gap: 10px;
+    border-radius: 5px;
+}
+#email{
+    font-size: small;
+    width: 250px;
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
