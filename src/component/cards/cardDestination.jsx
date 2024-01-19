@@ -5,7 +5,7 @@ function CardDestination() {
   return (
     <div id='card' className='flex flex-col relative'>
       <img src="src/assets/img/bbb.jpg" id="imageDestination" />
-      <div className='flex flex-col gap-5 z-10 absolute py-3 px-5' id='infoDestination'>
+      <div className='flex flex-col gap-10 z-10 absolute py-7 px-5' id='infoDestination'>
           <div className='flex justify-between'>
             <a>Rome,Italy</a>
             <span className='flex gap-1'>$<p>5,42k</p></span>

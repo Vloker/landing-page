@@ -10,6 +10,8 @@ export default {
       orange: '#DF6951',
       black: '#212832',
       yellow: '#F1A501',
+      gray: '#F5F5F5',
+      lightgray: '#84829A',
     },
     fontFamily: {
       Volkhov: ['Volkhov', 'sans-serif'],
